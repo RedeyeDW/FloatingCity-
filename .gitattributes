@@ -1,2 +1,2 @@
-*.asp.net linguist-detectable=false
+*.aspnet linguist-detectable=false
 *.csharp linguist-detectable=true  
